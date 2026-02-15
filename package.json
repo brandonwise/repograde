@@ -1,0 +1,13 @@
+{
+  "name": "repograde",
+  "version": "0.1.0",
+  "description": "CLI that audits repositories for best practices and gives them a letter grade (A-F) with actionable recommendations — checks README quality, license, CI/CD, tests, linting, TypeScript config, and more",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"TODO: add tests\" && exit 0",
+    "lint": "echo \"TODO: add linter\" && exit 0",
+    "build": "echo \"TODO: add build\" && exit 0"
+  },
+  "private": true
+}
