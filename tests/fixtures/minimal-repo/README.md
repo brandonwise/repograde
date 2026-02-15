@@ -1,0 +1,3 @@
+# Minimal
+
+A small project.

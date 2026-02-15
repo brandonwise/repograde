@@ -1,0 +1,25 @@
+{
+  "name": "perfect-project",
+  "version": "1.0.0",
+  "description": "A comprehensive example project demonstrating best practices",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test tests/",
+    "lint": "eslint src/",
+    "build": "tsc"
+  },
+  "keywords": ["example", "best-practices"],
+  "author": "Example Author",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/perfect-project.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "typescript": "^5.0.0"
+  }
+}
